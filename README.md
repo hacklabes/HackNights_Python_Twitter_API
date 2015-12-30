@@ -12,7 +12,7 @@ Check if you have python installed
 
 ####Windows
 
-1. You can use your PowerShell, cmd.exe or install [babun](https://babun.github.io/)
+1. You can use your PowerShell, cmd.exe or install [babun](https://babun.github.io/), [gow](https://github.com/bmatzelle/gow)
 2. type `python -V`
 
 
