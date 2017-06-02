@@ -4,13 +4,13 @@
 
 Check if you have python installed
 
-####Mac/Linux
+#### Mac/Linux
 
 1. Go to your terminal emulator 
 2. Type `python --version`  and `pip --version`
 3. If it doens't work you may need to install it 
 
-####Windows
+#### Windows
 
 1. You can use your PowerShell, cmd.exe or install [babun](https://babun.github.io/), [gow](https://github.com/bmatzelle/gow)
 2. type `python -V`
@@ -20,12 +20,12 @@ Check if you have python installed
 
 The easiest is downloading the packages from [Python website](https://www.python.org/downloads/) then [Setuptools](https://pypi.python.org/pypi/setuptools)
 
-####Text Editor
+#### Text Editor
 
 [Sublime](https://www.sublimetext.com/)
 [Brackets](http://brackets.io/)
 
-#####Other resources
+##### Other resources
 
 [Online Python](https://repl.it/languages/python)
 
@@ -36,7 +36,7 @@ The easiest is downloading the packages from [Python website](https://www.python
 ### Python and Twitter
 
 
-####Python Library
+#### Python Library
 
 Install the library [TwitterAPI](https://github.com/geduldig/TwitterAPI) there are many [others](https://dev.twitter.com/overview/api/twitter-libraries) if you want to have a try.
 
@@ -44,7 +44,7 @@ On your command line tool / terminal type
 
 `pip install TwitterAPI`
 
-####Twitter API Keys
+#### Twitter API Keys
 
 In order to access Twitter through our Python scripts it's necessary to request access and adquire four different keys.
 
